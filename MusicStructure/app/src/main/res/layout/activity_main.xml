@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.musicstructure.MainActivity">
+
+    <TextView
+        android:id="@+id/txt_recently_played"
+        style="@style/text_buttons"
+        android:text="@string/recently_played"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/line_color"/>
+
+    <TextView
+        android:id="@+id/txt_all_songs"
+        style="@style/text_buttons"
+        android:text="@string/songs"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/line_color"/>
+
+    <TextView
+        android:id="@+id/txt_favorite"
+        style="@style/text_buttons"
+        android:text="@string/favorite"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/line_color"/>
+
+    <TextView
+        android:id="@+id/txt_albume"
+        style="@style/text_buttons"
+        android:text="@string/album"/>
+
+</LinearLayout>

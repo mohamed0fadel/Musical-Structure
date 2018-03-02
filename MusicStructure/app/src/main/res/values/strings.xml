@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Music Structure</string>
+    <string name="recently_played">Recently Played</string>
+    <string name="songs">All Songs</string>
+    <string name="favorite">Favorite</string>
+    <string name="playlist">Playlists</string>
+    <string name="album">Albums</string>
+    <string name="media_activity">Media Activity</string>
+    <string name="song_details">Song Details</string>
+    <string name="ajr">AJR</string>
+    <string name="daya">Daya</string>
+    <string name="demi">Demi Lovato</string>
+    <string name="ed">ED Sheeran</string>
+    <string name="imagine">Imagine Dragons</string>
+    <string name="halsey">Halsey</string>
+    <string name="marina">Marina Kaye</string>
+    <string name="natasha">Natasha Bedingfield</string>
+    <string name="selena">Selena Gomez</string>
+    <string name="sia">Sia</string>
+    <string name="evolve">Evolve</string>
+    <string name="christmas">Every Day Is Christmas</string>
+
+</resources>
